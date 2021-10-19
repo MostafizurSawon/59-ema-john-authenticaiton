@@ -1,0 +1,18 @@
+{
+    "details": [
+        {
+            "key": "1",
+            "discount": "21%",
+            "name": "Doctor Strange",
+            "day": "Everyday except Monday",
+            "img": "https://image.freepik.com/free-vector/woman-with-kid-consulting-doctor_74855-4587.jpg"
+        },
+        {
+            "key": "",
+            "discount": "11%",
+            "name": "Steffen Roger",
+            "day": "Monday, Tuesday, Saturday",
+            "img": "https://image.freepik.com/free-vector/woman-with-kid-consulting-doctor_74855-4587.jpg"
+        }
+    ]
+}
